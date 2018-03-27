@@ -1,0 +1,187 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/UdemyCourse/section-8/Modal.css" timestamp="1521081873897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/App.js" timestamp="1521812204508">
+        <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/Toolbar/Toolbar.js" timestamp="1521159373216">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/config/webpack.config.prod.js" timestamp="1520996912779">
+        <mark key="[" line="184" column="53" />
+      </file>
+      <file name="/a.dummy" timestamp="1521386455702">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/index.css" timestamp="1521001230510">
+        <mark key="[" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/axios-orders.js" timestamp="1521230302457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BuildControls/BuildControl/BuildControl.js" timestamp="1521073605327">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BurgerIngradients/BurgerIngradients.js" timestamp="1521041446515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/containers/BurgerBuilder/BurgerBuilder.js" timestamp="1521390080026">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="4" />
+        <mark key="." line="110" column="4" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BuildControls/BuildControls.js" timestamp="1521586326468">
+        <mark key="[" line="23" column="114" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Hamburger/Hamburger.js" timestamp="1521160766626">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/NavigationItems/NavigationItems.css" timestamp="1521153806430">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Logo/Logo.css" timestamp="1521154467539">
+        <mark key="[" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/UdemyCourse/section-8/18-button-code.css" timestamp="1521075767698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/NavigationItems/NavigationItems.js" timestamp="1521144221963">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/UdemyCourse/section-8/Button.css" timestamp="1521133981117">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/SideDrawer/SideDrawer.css" timestamp="1521159770293">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Layout/Layout.js" timestamp="1521586152666">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Backdrop/Backdrop.js" timestamp="1521156649865">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Backdrop/Backdrop.css" timestamp="1521126295594">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Logo/Logo.js" timestamp="1521144577724">
+        <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Button/Button.css" timestamp="1521222980713">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BuildControls/BuildControl/BuildControl.css" timestamp="1521063632659">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/UdemyCourse/section-8/13-build-control-addition.css" timestamp="1521063611556">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/Burger.css" timestamp="1521074854356">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Hamburger/Hamburger.css" timestamp="1521160853508">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/OrderSummery/OrderSummery.js" timestamp="1521136159986">
+        <mark key="[" line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Button/Button.js" timestamp="1521135090581">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Spinner/Spinner.css" timestamp="1521232103507">
+        <mark key="[" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/HOC/WithErrorHandler/WithErrorHandler.js" timestamp="1521390297737">
+        <mark key="[" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/HOC/Auxilary.js" timestamp="1520999638707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Layout/Layout.css" timestamp="1521138734423">
+        <mark key="[" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/public/index.html" timestamp="1521001165412">
+        <mark key="[" line="20" column="6" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BurgerIngredient/BurgerIngredient.js" timestamp="1521056793564">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Model/Model.js" timestamp="1521387387147">
+        <mark key="[" line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/UI/Spinner/Spinner.js" timestamp="1521232115579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" timestamp="1521142125829">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Burger/BuildControls/BuildControls.css" timestamp="1521077247006">
+        <mark key="[" line="44" column="27" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="11" filename="$USER_HOME$/OneDrive/Documents/Marlabs/javaScript/React/burger/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8SGVhZGVyIGNsYXNzTmFtZT17Y2xhc3Nlcy5Ub29sYmFyfT4K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8SGVhZGVyIGNsYXNzTmFtZT17Y2xhc3Nlcy5Ub29sYmFyfT4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>const</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx3aGl0ZVw+</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx3aGl0ZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx3aGl0ZVw+</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDx3aGl0ZVw+</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
